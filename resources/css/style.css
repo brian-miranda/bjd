@@ -1,0 +1,46 @@
+html {
+  font-size: 18px;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+.intro {
+  background-color: #000;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.intro h1 {
+  color: #FFF;
+  font-family: 'Amatic SC', cursive;
+  font-size: 10rem;
+  text-align: center;
+  /*text-transform: uppercase;*/
+}
+
+.intro2 {
+  background-color: #000;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.intro2 h1 {
+  color: #FFF;
+  font-family: 'Major Mono Display', monospace;
+  font-size: 5rem;
+  text-align: left;
+  letter-spacing: .01px;
+
+}
